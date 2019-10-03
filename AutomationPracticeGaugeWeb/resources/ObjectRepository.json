@@ -1,0 +1,142 @@
+{
+  "BASE_PAGE_SIGN_IN_BUTTON": {
+  "cssselector": "a[title='Log in to your customer account']"
+  },
+
+  "SIGN_IN_PAGE_EMAIL_ADRESS_TEXTBOX": {
+    "id": "email_create"
+  },
+
+  "SIGN_IN_PAGE_CREATE_ACCOUNT_BUTTON": {
+    "id": "SubmitCreate"
+  },
+
+  "PERSONAL_INFORMATION_GENDER_MR": {
+    "cssselector": "label[for='id_gender1']"
+  },
+
+  "PERSONAL_INFORMATION_FIRSTNAME_TEXTBOX": {
+    "id": "customer_firstname"
+  },
+
+  "PERSONAL_INFORMATION_LASTNAME_TEXTBOX": {
+    "id": "customer_lastname"
+  },
+
+  "PERSONAL_INFORMATION_PASSWORD_TEXTBOX": {
+    "id": "passwd"
+  },
+
+  "PERSONAL_INFORMATION_SELECTDATE_DAYS": {
+    "id": "days"
+  },
+
+  "PERSONAL_INFORMATION_SELECTDATE_MONTHS": {
+    "id": "months"
+  },
+
+  "PERSONAL_INFORMATION_SELECTDATE_YEARS": {
+    "id": "years"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_FIRSTNAME_TEXTBOX": {
+    "id": "firstname"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_LASTNAME_TEXTBOX": {
+    "id": "lastname"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_TEXTBOX": {
+    "id": "address1"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_CITY_TEXTBOX": {
+    "id": "city"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_STATE_DROPDOWN": {
+    "id": "id_state"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_POSTCODE_TEXTBOX": {
+    "id": "postcode"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_MOBILEPHONE_TEXTBOX": {
+    "id": "phone_mobile"
+  },
+
+  "PERSONAL_INFORMATION_ADRESS_REGISTER_BUTTON": {
+    "id": "submitAccount"
+  },
+
+  "MY_ACCOUNT_YOUR_LOGO": {
+    "cssSelector": "img[src='http://automationpractice.com/img/logo.jpg']"
+  },
+
+  "BASE_PAGE_FIRST_ITEM": {
+    "xpath": "//*[@id='homefeatured']/li[1]/div/div[1]/div/a[1]/img"
+  },
+
+  "ITEM_ADD_TO_CARD_BUTTON": {
+    "cssselector": "#add_to_cart > button > span"
+  },
+
+  "ITEM_PRODUCT_PRICE": {
+    "cssselector": "span[id='our_price_display']"
+  },
+
+
+  "SUMMARY_PRODUCT_PRICE": {
+    "cssselector": "td.cart_unit > span > span"
+  },
+
+
+
+
+  "ITEM_PROCEED_THE_CHECKOUT_BUTTON": {
+    "cssselector": "#layer_cart > div.clearfix > div.layer_cart_cart.col-xs-12.col-md-6 > div.button-container > a > span"
+  },
+
+
+  "SUMMARY_PROCEED_THE_CHECKOUT_BUTTON": {
+    "cssselector": "#center_column > p.cart_navigation.clearfix > a.button.btn.btn-default.standard-checkout.button-medium > span"
+  },
+
+  "ADRESS_DELIVERY_ADRESS_DROPDOWN": {
+    "cssselector": "select[id='id_address_delivery']"
+  },
+
+
+  "ADRESS_PROCEED_THE_CHECKOUT_BUTTON": {
+    "cssselector": "#center_column > form > p > button > span"
+  },
+
+
+  "SHIPPING_SHIPPING_COST": {
+    "cssselector": "#form > div > div.delivery_options_address > div.delivery_options > div > div > table > tbody > tr > td.delivery_option_price > div"
+  },
+
+  "SHIPPING_AGREE_THE_TERM": {
+    "id": "cgv"
+  },
+
+  "SHIPPING_PROCEED_THE_CHECKOUT_BUTTON": {
+    "cssselector": "#form > p > button > span"
+  },
+  "PAYMENT_PAY_BY_CHECK":{
+    "cssselector": "a[title='Pay by check.']"
+  },
+  "PAYMENT_I_CONFIRM_MY_ORDER":{
+    "cssselector":"#cart_navigation > button > span"
+  }
+
+
+
+
+
+
+
+
+}
