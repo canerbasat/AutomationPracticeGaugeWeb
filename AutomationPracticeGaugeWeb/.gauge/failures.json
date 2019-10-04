@@ -1,9 +1,7 @@
 {
 	"Args": [
 		"run",
-		"--machine-readable",
-		"--hide-suggestion",
-		"--simple-console"
+		"--dir=/Users/sahabt/Desktop/AutomationPracticeGaugeWeb/AutomationPracticeGaugeWeb"
 	],
 	"FailedItems": []
 }

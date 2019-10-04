@@ -41,4 +41,3 @@ Tags:Practice
 * "PAYMENT_I_CONFIRM_MY_ORDER" butonuna tıklanır
 
 
-span[id='our_price_display']

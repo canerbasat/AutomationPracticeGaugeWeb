@@ -90,9 +90,7 @@ public class StepImplementation {
     public void randomStringGenerate(String el) {
         RandomStringGenerator randomStringGenerator =
                 new RandomStringGenerator.Builder()
-                        .withinRange('0', 'z')
-                        .filteredBy(CharacterPredicates.LETTERS, CharacterPredicates.DIGITS)
-                        .build();
+                        .withinRange('0', 'z').filteredBy(CharacterPredicates.LETTERS, CharacterPredicates.DIGITS).build();
         signInMail = randomStringGenerator.generate(12) + "@hotmail.com";
         basePage.sendKeys(el,signInMail);
     }
